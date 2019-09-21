@@ -8,6 +8,18 @@ Using a 'game engine' framework makes developing games so much easier and more e
 
 Reacting to events in game couldn't be simpler. Making game elements move and collide basically just requires the elements to be in the game and have collisions turned on.
 
+## Possible Improvements
+
+- Ball Velocity Changes
+- HTML/CSS Menus
+- Bonus scoring
+- New modes
+-- Double balls
+-- Double paddles
+-- New 'maps'
+- File separation (JS and CSS out of HTML)
+- Scaling and resolution opportunities
+
 ## Check it out 
 
 https://Farmerjoe12.github.io/Breakout
