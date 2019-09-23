@@ -14,13 +14,9 @@ Reacting to events in game couldn't be simpler. Making game elements move and co
 - HTML/CSS Menus
 - Bonus scoring
 - New modes
-
--- Double balls
-
--- Double paddles
-
--- New 'maps'
-
+- Double balls
+- Double paddles
+- New 'maps'
 - File separation (JS and CSS out of HTML)
 - Scaling and resolution opportunities
 
